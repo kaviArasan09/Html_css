@@ -1,0 +1,24 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.dash{
+    width: 20%;
+    height: 100%;
+    background-color: aqua;
+    text-align: left;
+    float: left;
+    
+}
+.b{
+    width: 80%;
+    margin-left:255px;
+    background-color: rgb(247, 245, 242);
+   
+ 
+}
+
+.dash ,.b{
+    height: 100vh;
+}
